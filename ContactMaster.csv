@@ -1,0 +1,101 @@
+organizationId,organizationName,masterDataId,First_Name,Last_Name,Email_Address,Job_Level,Communication_Preference,Industry_Segment,Customer_Segment,Customer_Lifecycle_Stage,Risk_of_Churn,Customer_Advocacy_Score,Sentiment_Analysis
+f938b6b3-3b27-4150-86f9-807c2d11d704,Johnson Inc,CUST-0000,Bruce,Morgan,garciacarl@yahoo.com,Director,None,Healthcare,New,Purchase,Medium,33,Neutral
+3cb53810-3028-480c-a7ac-87db6eb77ee3,"Miles, Manning and Walker",CUST-0001,Kyle,Marshall,jfrancis@white.com,Executive,SMS,Retail,New,Consideration,High,6,Positive
+18a5b7c1-a7b6-48a1-a05d-8118bcafeb7c,"Arnold, Sullivan and Munoz",CUST-0002,Michael,Wright,hector32@hotmail.com,Senior,Email,Manufacturing,Churning,Purchase,Medium,67,Negative
+dbd45af3-459d-475e-a5a0-8712e66550c3,"Massey, Hayes and Davila",CUST-0003,Jennifer,Jacobs,kingeric@arnold-stone.net,Executive,None,Retail,At Risk,Consideration,Low,57,Negative
+4b17bf02-22fc-461f-b206-662894ee328d,Graham-Jones,CUST-0004,Eric,Flores,donna06@fuller.net,Executive,None,Healthcare,Loyal,Purchase,Medium,74,Positive
+98cae61f-81ee-4576-b5dd-06f9832bf2a8,Arnold-Robinson,CUST-0005,Robert,Gonzalez,courtneyross@yahoo.com,Mid,Phone,Tech,Loyal,Purchase,Low,28,Positive
+399b3a0c-de6d-4b7e-840c-8ea814f34a64,Reid-Montgomery,CUST-0006,Patricia,Norman,elizabethrubio@bentley-rodriguez.com,Senior,Email,Finance,At Risk,Consideration,Medium,35,Neutral
+0b32d850-530e-4fc5-a007-1418f8bc1dcf,Cunningham Inc,CUST-0007,Vincent,White,nalvarez@perez-lee.com,Senior,None,Healthcare,Loyal,Consideration,High,88,Negative
+6f8c79ca-269d-4c7f-8f47-72b245e5ed84,"Waller, Downs and Pena",CUST-0008,John,Collier,william88@davidson.com,Senior,SMS,Retail,At Risk,Consideration,High,20,Negative
+1ef2799b-b7e6-427a-9abd-589eb88036b7,Gomez Group,CUST-0009,Warren,Martin,gonzalezjames@lyons-clayton.com,Executive,SMS,Finance,Loyal,Awareness,Low,35,Positive
+329cea9f-fcc9-4294-93b1-b23cec9c9f15,Price and Sons,CUST-0010,Katherine,Cox,zmiller@hill-bentley.com,Director,Phone,Retail,New,Retention,Low,9,Neutral
+21f92bab-9c71-48c2-a6db-9dd6959267a3,Galloway-Patterson,CUST-0011,Mariah,Doyle,robert06@smith.com,Senior,None,Retail,Loyal,Awareness,Low,100,Negative
+a587f31d-bcd5-4faa-ad11-2cc2b832acaf,Lucas-Richardson,CUST-0012,Randall,Reeves,leethomas@yahoo.com,Executive,Email,Tech,At Risk,Awareness,Medium,72,Negative
+a1f38d52-dacc-44d7-b778-1614c5dc5adf,Burch-Martinez,CUST-0013,Dana,Robbins,pricetracey@hotmail.com,Mid,SMS,Finance,At Risk,Purchase,Medium,23,Neutral
+4fc01642-ebe6-4141-90ac-598b2dedaead,"Hunt, Chang and Anderson",CUST-0014,Christina,Cain,kylelawrence@baker.com,Director,None,Finance,At Risk,Consideration,Low,63,Neutral
+a2b90d3f-f86d-47da-8c9b-4a316f23ef79,Smith Inc,CUST-0015,Andrew,Hernandez,heathervaughn@yahoo.com,Mid,None,Tech,At Risk,Retention,High,98,Negative
+51bb7f9c-0b96-468d-8216-700db8d6125b,Kelly-Maldonado,CUST-0016,James,Kramer,troy39@yahoo.com,Director,Phone,Healthcare,At Risk,Purchase,Medium,48,Negative
+d2704523-8446-4600-aff5-305be4442551,Carlson Group,CUST-0017,Amber,Barrett,tina10@atkins.com,Executive,SMS,Retail,Churning,Awareness,Medium,98,Neutral
+31f21021-252e-4756-9914-daa5d07681cf,Daugherty-Stewart,CUST-0018,Theresa,Craig,lmiller@ayala.info,Entry,SMS,Manufacturing,Churning,Consideration,Medium,35,Negative
+c5b5c084-2d7c-4cc4-b51f-408a651a13c8,"Price, Miller and Avila",CUST-0019,Ricky,Garcia,caustin@hernandez-harris.net,Director,Email,Retail,Loyal,Purchase,Low,81,Positive
+17294d69-cd8f-4e9d-be26-0bb93cd6aa04,Mccarthy-Johnson,CUST-0020,Robert,Huang,cadams@daniels-fuentes.com,Mid,SMS,Retail,At Risk,Consideration,Low,95,Positive
+2a94f34e-cbaa-4957-b75f-cb7fd852db27,Johnson-Duncan,CUST-0021,Natalie,Brown,megan70@hendricks.com,Executive,Email,Healthcare,Loyal,Purchase,Low,23,Neutral
+76cb936d-4e55-4e8a-945c-53879c9e8889,"Taylor, Hughes and Garcia",CUST-0022,Nina,Brown,ashley00@moran.com,Director,SMS,Retail,At Risk,Consideration,Low,22,Neutral
+57c59fdc-ed05-4755-885a-cafff19c8753,Mcgee-Kelly,CUST-0023,Daniel,Hoffman,williamssarah@gmail.com,Entry,Phone,Tech,At Risk,Awareness,Low,61,Neutral
+900a5fab-a99d-4237-a228-16f724d48060,Griffin Inc,CUST-0024,Tina,Gates,michaelgray@yahoo.com,Entry,SMS,Tech,Churning,Retention,High,95,Positive
+ce43caa7-c8c0-4c54-8d1d-94e0a8b1d39f,Taylor PLC,CUST-0025,Marissa,Pugh,staylor@hotmail.com,Senior,Email,Finance,Churning,Awareness,High,36,Negative
+c5e1fe84-ee22-45be-87ee-f5cfc3106b80,Mccoy-Brown,CUST-0026,Jennifer,Hamilton,sarahaguirre@jackson-waller.com,Senior,Email,Manufacturing,New,Retention,Low,11,Positive
+6c47f97f-d7c4-4f69-afde-31ba6910ce28,Calderon and Sons,CUST-0027,Emily,Lee,zadams@pena.net,Mid,Phone,Retail,Churning,Consideration,Medium,54,Negative
+b5f40bd5-4083-431e-bedf-b6a6ae357af5,Livingston Ltd,CUST-0028,Patricia,Vargas,ple@hotmail.com,Director,SMS,Retail,New,Purchase,Low,12,Positive
+e942aa31-e7a0-4ebb-a997-e57afc3dca41,"Pearson, Jones and Roberts",CUST-0029,Brandon,Garcia,jennifer27@yahoo.com,Director,SMS,Healthcare,New,Awareness,High,22,Negative
+129985ba-1fbf-4dc4-9fe1-b42658789d5b,"Perry, Lester and Hernandez",CUST-0030,Charles,Mcgee,rthompson@cooper.com,Senior,Phone,Tech,New,Retention,High,88,Positive
+637b1818-147d-408c-bc9c-038341db1d4f,"Nelson, Larson and Lee",CUST-0031,John,Allen,ynewton@hotmail.com,Director,SMS,Manufacturing,New,Awareness,Medium,98,Neutral
+51cfdd62-a540-48b9-8808-f1d15e334420,Moon PLC,CUST-0032,Tamara,Shea,eric19@yahoo.com,Director,SMS,Finance,New,Retention,High,29,Positive
+78ecadce-4a06-4bd4-9e7a-a05b3cd27060,Hughes LLC,CUST-0033,Tara,Rogers,brownheather@vargas-black.biz,Entry,Email,Tech,Loyal,Awareness,Low,16,Negative
+b651e792-e4b6-4fb4-af6d-a6c745c3bf39,Aguilar-Hernandez,CUST-0034,Maria,Schmidt,jeremymorris@anderson.com,Senior,SMS,Finance,Churning,Retention,Medium,61,Positive
+69e64212-8958-4842-8dbc-18c2eab69fcf,"Perez, Keller and Jefferson",CUST-0035,Angela,Hughes,williammartin@yahoo.com,Executive,SMS,Healthcare,New,Retention,Low,83,Positive
+f61c5269-a706-4c78-9eb6-0466967879b2,Warren-Gaines,CUST-0036,Heather,Saunders,john51@hays-sheppard.com,Senior,Phone,Healthcare,At Risk,Consideration,Low,88,Positive
+2f966615-7d0d-4800-96e2-3c6c213d60ec,Ramirez LLC,CUST-0037,Michelle,Nash,tjackson@yahoo.com,Executive,Phone,Retail,Churning,Retention,Medium,85,Neutral
+02a69927-793c-47de-b59c-a7e1d2ca2754,"Nixon, Hurley and Gill",CUST-0038,Melissa,Garcia,chrisstark@hotmail.com,Entry,None,Manufacturing,Churning,Consideration,Low,12,Positive
+d1d2e690-d9c4-4f67-a9bf-79f4daef5a5c,Forbes Group,CUST-0039,Donna,Herrera,jesserusso@gmail.com,Mid,Email,Finance,New,Retention,High,58,Neutral
+1a9fe54f-b411-4249-8a4e-d392547aebc7,Hinton-Torres,CUST-0040,Kathy,Hansen,leahpeterson@hotmail.com,Director,SMS,Tech,Loyal,Purchase,Low,18,Neutral
+803b1942-e778-4955-9212-7ac62513681a,Rose-Davidson,CUST-0041,Lisa,Mathis,james85@miranda.com,Entry,SMS,Healthcare,New,Purchase,Medium,48,Positive
+fadc0a7b-da2a-4705-864a-15d1dae36b6f,White-Long,CUST-0042,Jesse,Brown,gvilla@brown.org,Director,None,Retail,Loyal,Purchase,Medium,99,Positive
+3157c570-14fa-44b3-8016-8b0ce0b59ea9,Schmidt PLC,CUST-0043,Matthew,Padilla,xschneider@hotmail.com,Mid,SMS,Retail,At Risk,Retention,Medium,11,Positive
+97cd231a-a426-400b-8b64-a32deb1bb447,"Brennan, Ortiz and Pena",CUST-0044,Rodney,Hicks,rbautista@clark.info,Mid,Email,Finance,Churning,Consideration,Low,60,Negative
+ded0ca3b-3218-40ab-9a3a-2d8e1206d7d4,Clark-Conley,CUST-0045,Michael,Richards,campbellchristopher@hotmail.com,Entry,None,Healthcare,At Risk,Consideration,Medium,18,Positive
+d076077a-02d5-4e1b-8325-185c8acde9dc,Davis and Sons,CUST-0046,Benjamin,Hicks,charleswatson@green.com,Mid,Email,Manufacturing,Loyal,Retention,Medium,75,Neutral
+c2c561af-ea5b-420b-b926-6671fd669897,"Roberts, Hall and Kim",CUST-0047,Brandon,Adams,riceroberto@riley.info,Executive,None,Healthcare,Loyal,Purchase,Low,8,Positive
+3f31d020-68d3-414e-b8cf-d71761927baf,Ali Inc,CUST-0048,Christopher,Bell,chad97@reed-burns.net,Mid,None,Finance,At Risk,Purchase,High,70,Negative
+76990888-d0a0-4016-9bc2-c98493eaa013,Choi PLC,CUST-0049,Gavin,Green,briana45@yahoo.com,Director,Phone,Finance,Loyal,Consideration,Low,27,Positive
+d786d8ff-2444-42a5-b93c-b15d16dfa7da,Gonzalez Ltd,CUST-0050,Hannah,Le,kaitlynmedina@hotmail.com,Director,Email,Healthcare,At Risk,Purchase,Medium,77,Negative
+a0415691-8340-4139-9366-25b047ebc1cb,Harris Ltd,CUST-0051,Jacob,Neal,haynesgarrett@gmail.com,Director,SMS,Finance,Churning,Awareness,Medium,94,Negative
+0195f355-560f-4a02-99d8-c1d9210e4cd7,"Leach, Stewart and Waters",CUST-0052,James,Barnes,kaufmanamber@weeks-lane.com,Director,SMS,Healthcare,At Risk,Consideration,Low,51,Positive
+1132d422-f226-417a-9c8f-5f873d60369f,Todd Inc,CUST-0053,Doris,Rubio,rthomas@davis-nelson.com,Executive,Email,Tech,Churning,Purchase,High,82,Neutral
+f606c87c-abec-43a0-9757-fe89eb22ce42,Anderson Group,CUST-0054,Luke,Gomez,thompsonbrittany@young-perez.com,Senior,SMS,Healthcare,At Risk,Consideration,Medium,15,Negative
+51129410-4172-418b-8d01-c68b9cea0fcd,Ortiz and Sons,CUST-0055,Kayla,Dillon,horntyrone@gmail.com,Entry,SMS,Healthcare,Loyal,Awareness,Medium,68,Positive
+93c10ca9-4625-471c-9e44-570f0ae88983,Frazier-Martinez,CUST-0056,Jeremiah,White,guerrachristopher@yahoo.com,Director,Email,Finance,At Risk,Consideration,Medium,98,Positive
+b76c2a96-6ca1-4ac6-8701-fa0418f51963,"Ware, Johnson and Wilson",CUST-0057,Amber,Contreras,david69@hotmail.com,Mid,None,Finance,Loyal,Consideration,Low,11,Neutral
+c76b731b-a9d8-4b45-a8f1-0d7c5be008fd,Ward PLC,CUST-0058,Edward,Mullen,james71@yahoo.com,Director,Email,Retail,At Risk,Consideration,Medium,24,Negative
+a19440b5-75f3-4d6c-bbfd-d5afda67985c,"Curtis, Grimes and Lee",CUST-0059,Curtis,Lopez,dmartinez@gmail.com,Mid,None,Retail,At Risk,Consideration,High,51,Negative
+9ef05b63-6e3c-43e2-b5ed-3495c592756e,"Hernandez, Kim and Turner",CUST-0060,Danny,Watson,greyes@hotmail.com,Mid,SMS,Tech,New,Awareness,Medium,84,Positive
+2a249cfd-81d6-4978-b309-93da9ce9f6a5,Stanley-Hill,CUST-0061,Jennifer,Wiggins,rkhan@yahoo.com,Director,SMS,Retail,Loyal,Retention,Medium,99,Positive
+b8929b81-0de5-4ee5-a1b9-5a27004c0fbb,Powers PLC,CUST-0062,Karen,Miller,john35@stevenson-davis.org,Executive,SMS,Healthcare,New,Consideration,High,52,Neutral
+04cb0f5d-3788-44fc-97b5-e6af4112b163,"Taylor, Flores and Fox",CUST-0063,Deborah,Hall,scottoneal@hodge.biz,Mid,Phone,Finance,Loyal,Consideration,Medium,22,Neutral
+5b1f8c2e-5b04-4137-aca6-9ced6f3d173c,"Good, Lang and Rogers",CUST-0064,Michelle,Gonzales,heather01@gmail.com,Mid,None,Retail,New,Purchase,Low,15,Negative
+f9a54efd-40f7-4a50-b5e5-b7bcd5094784,"Berry, Young and Townsend",CUST-0065,Jeffrey,Clements,joseph22@hotmail.com,Director,Phone,Retail,Churning,Consideration,Low,56,Negative
+fb2683dd-936b-41fe-b5ca-b406da3aaf84,Tate-Donovan,CUST-0066,Benjamin,Greene,meyercheryl@mccarthy.com,Mid,Phone,Tech,At Risk,Purchase,Low,38,Positive
+14307997-6659-4714-9322-0c3eab4fd72d,Hall-Lee,CUST-0067,Joshua,Campbell,maynardnicole@gmail.com,Mid,Email,Tech,Loyal,Retention,High,52,Negative
+b1939fcc-17f9-4ec6-95ff-00fafb7d6cff,Mahoney-Hawkins,CUST-0068,Kimberly,Garcia,nancy64@stafford-whitaker.com,Director,Phone,Healthcare,Loyal,Awareness,Medium,41,Neutral
+e0bda237-b4ae-4efc-a939-2a252ae70162,Hicks-Lyons,CUST-0069,Madeline,Daugherty,murraykatherine@atkinson-rodriguez.com,Director,Email,Finance,At Risk,Awareness,Low,57,Neutral
+62ca098b-0d62-4f27-bbd6-2dd342e12a35,Ellison Ltd,CUST-0070,Deanna,Ward,ethomas@flores.net,Entry,Email,Tech,Loyal,Retention,High,38,Positive
+9e230700-878d-4ab3-8431-1f3f1ac62f43,Bennett-Davis,CUST-0071,Nathan,Baker,eric03@peterson-lee.com,Executive,Phone,Retail,Loyal,Awareness,Medium,13,Neutral
+dd835c59-c3db-427a-96a9-08ffdd494eea,"Brown, Brown and Montgomery",CUST-0072,Lynn,Mcmillan,ahartman@yahoo.com,Executive,None,Finance,New,Retention,High,94,Neutral
+75bffa13-6c85-48b2-b7af-163481b4ce3e,Davis and Sons,CUST-0073,Jessica,Gonzales,lisamiller@hotmail.com,Mid,None,Finance,Loyal,Retention,Low,4,Neutral
+a401b9e8-cb4b-4b48-a69f-bbcc07101ea8,Brown Group,CUST-0074,Mallory,Dean,eroberts@miller-santana.com,Executive,None,Retail,Churning,Retention,Low,34,Neutral
+e03e6213-431b-4b9e-9b76-aa45486242df,Davis Ltd,CUST-0075,Michael,Foley,turneralejandro@smith.com,Mid,None,Tech,Churning,Awareness,Low,86,Positive
+0d195032-00d9-47d2-9116-cd17cbd1f6b9,Brown and Sons,CUST-0076,Taylor,Adams,kayleegarner@stanley.net,Entry,None,Retail,At Risk,Purchase,High,92,Positive
+8849ca20-dccc-4a25-9373-36d615a2ee3f,Mason-Briggs,CUST-0077,Vickie,Cuevas,joegutierrez@gmail.com,Director,Phone,Finance,Loyal,Retention,High,74,Negative
+4f16a50c-c980-4fa7-be78-747ea736934f,Howard-Soto,CUST-0078,Matthew,Patterson,bfoster@hotmail.com,Director,Phone,Manufacturing,At Risk,Consideration,Low,17,Neutral
+e8d44b8b-528d-47c4-9c4e-87c6bed044bd,Williams-Evans,CUST-0079,Mark,Davis,kennedyvictoria@dunn.com,Director,SMS,Manufacturing,Churning,Awareness,High,75,Negative
+cebb23bb-c382-4fc0-a784-125eac09ea3f,Cox Inc,CUST-0080,Ann,Lin,william79@hotmail.com,Executive,None,Healthcare,Loyal,Retention,Low,8,Positive
+131a776e-d110-42c3-9460-5eecf2f7f159,Velez PLC,CUST-0081,Joshua,Elliott,david72@brown.com,Entry,Phone,Retail,Loyal,Retention,Low,73,Positive
+3a9123f2-1a1f-4a09-ab8a-013ad8a305e1,Price-White,CUST-0082,Juan,Gordon,mikayla02@gmail.com,Executive,SMS,Retail,At Risk,Consideration,Medium,57,Positive
+f38f4959-c60b-41c3-a3d5-0f4adf615ae9,Ewing-Williamson,CUST-0083,Michele,Stafford,leegarrett@hale.com,Executive,None,Healthcare,Churning,Purchase,High,16,Positive
+89708c72-09e8-43be-a29c-2562e1b67e72,Williams-Graham,CUST-0084,Edward,Gardner,katherine59@yahoo.com,Entry,Email,Healthcare,Loyal,Purchase,Low,6,Positive
+45008313-6af9-4b99-b4f2-f14e8dd23835,Mcdaniel Group,CUST-0085,Katherine,Frye,walter86@drake.com,Entry,SMS,Healthcare,At Risk,Purchase,Low,45,Positive
+a0318a8f-346f-471e-a60f-4b40384d6e31,Munoz-English,CUST-0086,Karl,Mcclure,ljones@gmail.com,Entry,Phone,Finance,Churning,Retention,High,12,Positive
+2c64dbde-787c-4467-b1a7-6bcc4d311628,Lee-Sullivan,CUST-0087,Michael,Mcgee,patrick44@yahoo.com,Entry,Email,Retail,At Risk,Retention,Medium,39,Neutral
+28fc3826-80c5-49c4-a69c-1f2be8d67734,Wright-Bowers,CUST-0088,Jessica,Mcfarland,rachelflores@clark.com,Director,Email,Finance,New,Retention,Medium,41,Negative
+9d89b70f-248a-48e9-aa80-5ffcbcecf5aa,Fisher-Williams,CUST-0089,Donald,Sims,allisonmcgee@cole.com,Senior,Email,Healthcare,Loyal,Awareness,Low,8,Positive
+2badc1d9-ccb5-4720-9670-6d035ade798b,"Davis, Gray and King",CUST-0090,Laurie,Griffin,terriwarren@turner.com,Senior,SMS,Retail,New,Consideration,High,49,Neutral
+8742a10a-e388-4909-9c6a-f799fae0200d,"Carlson, Gardner and Henderson",CUST-0091,James,Harrison,wgonzalez@kim.biz,Entry,Phone,Finance,Churning,Retention,Medium,26,Neutral
+f8d6de66-f773-4c27-8a3b-ef855bcc87dd,Johnson-Reese,CUST-0092,Eddie,Shelton,john10@yahoo.com,Senior,Email,Finance,New,Consideration,High,65,Negative
+27cf1757-c33a-4222-bb48-ebf022a997cb,Powell PLC,CUST-0093,Christopher,Castaneda,robyn65@williams.com,Senior,None,Healthcare,New,Consideration,High,4,Positive
+cea833b7-1c8b-47ad-9d0d-14829eff10b5,Reyes Group,CUST-0094,Michael,Warren,fkhan@hotmail.com,Entry,Email,Retail,Churning,Purchase,Low,28,Negative
+8052e9bd-e1a6-45b1-a7c1-c8e6f5a5282c,Kirk-Holmes,CUST-0095,Amanda,Reed,rachelhill@gmail.com,Senior,Email,Healthcare,At Risk,Awareness,Medium,36,Positive
+c65ddaae-bde5-4b95-b474-8962baa42c2a,"Ferguson, Mcclain and Garcia",CUST-0096,Bryan,Taylor,wperez@hotmail.com,Executive,SMS,Retail,New,Retention,Low,37,Neutral
+694f9ecd-2bed-4701-9629-00351e2fd83c,Williams LLC,CUST-0097,Christopher,Blankenship,xjones@gregory-reed.net,Mid,SMS,Manufacturing,At Risk,Purchase,Medium,82,Neutral
+71e4c113-d9e9-49db-b44b-58ef8974cf22,Ingram-Allen,CUST-0098,Linda,Morales,ugrant@gmail.com,Mid,Phone,Tech,New,Purchase,Medium,7,Neutral
+06d31115-8a9e-43d2-b681-07ca44d03874,Garcia-Crawford,CUST-0099,Tonya,Lopez,ericrhodes@hotmail.com,Entry,None,Tech,At Risk,Retention,Medium,64,Neutral

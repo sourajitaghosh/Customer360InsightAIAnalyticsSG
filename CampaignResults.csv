@@ -1,0 +1,101 @@
+CampaignId,CampaignName,EmailOpenDateTime,EngagementTimestamp,EmarsysEmailActivityType,Clicks,Conversions,Spend,Revenue,UserAgent,Platform,IsMobile,TimeZone,CityName,CountryISOCode,PostalCode,Longitude,Latitude
+CAM-1000,Aqua Just Campaign,2025-01-13 00:28:27,2025-03-04 03:41:02,Marked as Spam,25,27,7505.25,13732.38,Edge,iOS,False,CST,North Brandimouth,CA,13844,-34.9468,80.2310
+CAM-1001,MediumSeaGreen Analysis Campaign,2025-01-09 16:00:33,2025-03-20 23:07:17,Clicked,123,5,8145.86,7633.73,Chrome,Windows,True,EST,Fernandezshire,FR,26397,-124.6358,-9.5053
+CAM-1002,MediumOrchid Win Campaign,2024-12-30 12:51:07,2025-03-03 09:08:24,Clicked,143,28,7097.69,16041.45,Chrome,MacOS,True,CST,West Christyfurt,UK,71661,148.7789,34.3666
+CAM-1003,Tan Structure Campaign,2024-12-31 10:37:25,2025-03-17 15:31:49,Clicked,24,16,9675.91,17714.75,Edge,iOS,False,CST,Sarahshire,FR,61856,-120.5855,-42.1601
+CAM-1004,PapayaWhip Between Campaign,2025-01-07 01:14:59,2025-01-29 01:27:06,Clicked,53,15,8283.86,2679.37,Safari,Windows,True,EST,Thomashaven,FR,33293,-46.5933,-14.7523
+CAM-1005,MediumSlateBlue Car Campaign,2025-01-09 20:33:46,2025-02-03 04:09:29,Opened,155,22,9040.63,4170.95,Firefox,Android,True,MST,East Patrickburgh,DE,46910,-70.0722,8.4384
+CAM-1006,Peru End Campaign,2025-01-08 00:50:49,2025-02-03 11:08:00,Clicked,72,30,9342.35,4481.29,Safari,MacOS,False,MST,Johnside,CA,91214,167.0370,86.4367
+CAM-1007,Snow Well Campaign,2024-12-30 13:54:22,2025-02-10 01:59:53,Opened,119,2,8033.35,13885.99,Firefox,Windows,True,CST,Donaldbury,US,34737,131.9572,-65.7475
+CAM-1008,SaddleBrown Public Campaign,2025-01-07 12:47:16,2025-02-17 02:32:33,Clicked,55,20,6775.16,12140.18,Edge,MacOS,False,MST,Leonardburgh,CA,59353,-142.5030,79.3317
+CAM-1009,LightGreen Discuss Campaign,2024-12-26 07:50:11,2025-03-14 17:58:40,Unsubscribed,64,25,156.61,12456.03,Edge,MacOS,False,CST,Stevensfort,FR,45258,30.8685,88.0647
+CAM-1010,CornflowerBlue War Campaign,2025-01-20 14:18:55,2025-03-19 12:49:45,Marked as Spam,92,35,4711.67,18827.31,Chrome,MacOS,False,MST,Troystad,CA,54609,-114.7705,-16.5855
+CAM-1011,SlateGray Add Campaign,2024-12-27 07:11:42,2025-03-11 02:40:01,Clicked,85,41,5754.51,15563.05,Firefox,Windows,False,CST,North Andrea,DE,33220,-64.6967,-76.1111
+CAM-1012,Red Practice Campaign,2025-01-09 12:01:15,2025-03-23 02:20:32,Unsubscribed,79,36,3109.9,2733.15,Safari,iOS,False,MST,Port Heatherhaven,US,36835,33.8851,19.0458
+CAM-1013,Magenta Matter Campaign,2025-01-05 00:40:15,2025-03-18 01:40:09,Clicked,168,21,3249.23,7080.64,Edge,Windows,True,PST,East Michael,DE,61672,163.6744,-75.3981
+CAM-1014,Beige Fall Campaign,2025-01-22 15:40:54,2025-03-21 03:26:08,Clicked,107,41,9615.48,8820.79,Safari,MacOS,True,EST,Jasonshire,US,42113,-175.7141,45.3524
+CAM-1015,Maroon Nature Campaign,2025-01-01 14:44:24,2025-03-19 04:51:52,Clicked,178,11,8927.94,8040.04,Chrome,Windows,True,PST,South Hannahport,FR,94632,-134.8336,89.5252
+CAM-1016,SandyBrown Protect Campaign,2025-01-03 08:10:08,2025-03-09 14:11:29,Unsubscribed,117,41,8506.87,13452.31,Firefox,Android,False,EST,Landrychester,US,30150,97.0428,-12.7335
+CAM-1017,GoldenRod Up Campaign,2025-01-19 08:43:42,2025-03-10 19:37:48,Marked as Spam,198,12,4119.52,17859.48,Firefox,iOS,False,EST,Christophershire,US,45009,-72.2486,-21.4885
+CAM-1018,PaleTurquoise Over Campaign,2025-01-18 11:52:13,2025-02-26 00:36:02,Unsubscribed,156,10,235.62,6259.82,Edge,Windows,False,CST,Craigshire,US,29250,159.8414,-52.6826
+CAM-1019,PeachPuff Let Campaign,2025-01-01 01:24:40,2025-03-10 17:31:09,Marked as Spam,82,15,894.2,11127.17,Firefox,Android,False,EST,Lake Lisa,CA,22076,155.6952,22.0980
+CAM-1020,Magenta Rock Campaign,2024-12-30 20:59:34,2025-01-30 22:33:01,Clicked,146,7,3190.74,15830.31,Edge,iOS,True,PST,Mahoneybury,CA,84985,169.8312,82.6832
+CAM-1021,DarkGoldenRod Child Campaign,2024-12-31 08:08:40,2025-03-19 03:49:25,Opened,193,39,255.85,8441.12,Chrome,Android,True,PST,Sandovaltown,FR,38884,141.8751,-72.3868
+CAM-1022,Orchid Identify Campaign,2025-01-08 12:29:59,2025-03-20 12:01:27,Clicked,168,39,269.78,3528.74,Firefox,iOS,False,MST,East Robertberg,US,95794,-89.2693,75.3538
+CAM-1023,White Before Campaign,2025-01-21 12:38:29,2025-01-28 21:33:10,Marked as Spam,172,44,9174.37,9604.03,Edge,Windows,False,PST,South Brian,UK,08993,149.0834,76.8104
+CAM-1024,SlateGray Travel Campaign,2025-01-06 01:49:58,2025-03-01 22:19:17,Unsubscribed,14,1,7090.97,1293.41,Safari,Android,True,MST,South Aarontown,FR,63528,77.0393,1.5897
+CAM-1025,MistyRose Everyone Campaign,2024-12-31 17:33:30,2025-03-14 00:17:48,Clicked,130,29,3158.66,18859.19,Edge,MacOS,False,EST,Lake Brittany,US,12296,-161.9485,-47.6891
+CAM-1026,Gold Give Campaign,2025-01-18 12:46:31,2025-03-08 15:00:42,Unsubscribed,138,29,1413.18,1681.46,Firefox,Android,False,PST,Bakermouth,US,94166,110.8577,-85.5276
+CAM-1027,Coral Opportunity Campaign,2024-12-26 19:41:51,2025-02-02 03:29:27,Unsubscribed,180,11,5165.19,8881.44,Chrome,iOS,False,EST,Wardchester,CA,11169,-78.9214,87.9877
+CAM-1028,MediumSpringGreen Type Campaign,2025-01-16 19:57:07,2025-03-18 14:52:58,Unsubscribed,173,9,152.93,10691.65,Firefox,Windows,True,PST,Robertside,FR,61933,-107.3110,4.2762
+CAM-1029,Aqua New Campaign,2025-01-20 03:44:52,2025-03-12 09:28:36,Clicked,29,43,9390.3,19709.02,Firefox,iOS,True,PST,Pageport,US,84491,124.0760,5.6488
+CAM-1030,MidnightBlue Community Campaign,2024-12-31 14:47:17,2025-03-19 17:03:55,Unsubscribed,56,10,4206.67,3487.23,Edge,Android,False,MST,Jensenmouth,US,39664,-53.6346,-13.7594
+CAM-1031,MidnightBlue Return Campaign,2024-12-31 03:06:48,2025-03-24 12:28:35,Unsubscribed,145,14,4083.12,2465.74,Safari,Android,True,EST,Parkerside,FR,50019,-150.1849,51.2221
+CAM-1032,Sienna Power Campaign,2025-01-06 13:54:46,2025-02-23 03:33:56,Clicked,178,15,3966.88,372.38,Firefox,MacOS,False,PST,New Stephen,UK,92362,-144.3094,0.7695
+CAM-1033,GoldenRod Final Campaign,2025-01-14 11:28:09,2025-03-14 10:53:15,Unsubscribed,127,16,786.35,3280.31,Safari,Windows,False,CST,Trevorstad,FR,33318,-118.4489,39.3665
+CAM-1034,ForestGreen Mention Campaign,2025-01-06 20:47:09,2025-03-24 03:59:44,Clicked,47,25,6419.39,4304.0,Edge,Windows,True,EST,West Joshuaborough,FR,73480,-28.8898,79.5146
+CAM-1035,LightPink Eye Campaign,2024-12-25 01:46:46,2025-03-10 16:15:53,Marked as Spam,193,1,7356.74,12685.5,Safari,Android,False,EST,Cesartown,UK,86515,-44.6028,-21.6228
+CAM-1036,LightGreen Drug Campaign,2024-12-28 19:03:37,2025-01-24 06:19:25,Marked as Spam,135,49,6793.64,4550.19,Edge,Windows,False,EST,North William,FR,42724,119.5604,47.1924
+CAM-1037,Gold Reason Campaign,2025-01-22 18:11:46,2025-03-22 07:44:41,Marked as Spam,21,11,1470.51,606.31,Chrome,MacOS,True,MST,New Kristen,US,35733,-12.9921,-44.3959
+CAM-1038,DarkBlue Run Campaign,2025-01-07 03:45:11,2025-02-20 14:28:52,Unsubscribed,5,25,5830.52,16567.04,Safari,iOS,False,CST,Brookschester,FR,15333,89.9889,4.0271
+CAM-1039,Navy About Campaign,2025-01-07 18:06:31,2025-02-28 15:42:59,Opened,184,22,5737.9,7438.79,Safari,Windows,False,EST,New Sharon,UK,27561,-16.6507,24.6826
+CAM-1040,Snow Training Campaign,2024-12-29 05:14:21,2025-02-24 13:27:37,Opened,103,17,8697.27,7203.19,Chrome,Android,False,PST,Angelashire,DE,65621,-140.3573,16.1417
+CAM-1041,DeepPink Man Campaign,2025-01-16 10:31:52,2025-02-07 21:37:28,Unsubscribed,35,31,3853.36,6189.08,Safari,iOS,True,PST,Wilsontown,FR,99666,148.8021,45.6267
+CAM-1042,DarkBlue Forward Campaign,2025-01-14 06:54:52,2025-02-28 17:27:19,Opened,78,48,3777.71,19512.39,Chrome,iOS,False,MST,Michaeltown,CA,42601,20.8085,-2.3385
+CAM-1043,Red Series Campaign,2025-01-01 14:45:44,2025-01-26 03:46:22,Clicked,115,37,6223.42,3568.29,Firefox,MacOS,True,PST,Mcdanielshire,US,36563,-18.9516,-35.0048
+CAM-1044,MediumAquaMarine Understand Campaign,2025-01-09 16:36:54,2025-02-28 14:06:49,Opened,56,46,6367.42,17985.11,Edge,Android,False,EST,Coryshire,US,28294,-123.6053,-16.9189
+CAM-1045,Green Again Campaign,2025-01-10 09:06:40,2025-03-23 14:38:25,Unsubscribed,48,2,4745.92,15580.71,Chrome,Windows,False,PST,East Jessica,CA,92009,87.2482,-11.5683
+CAM-1046,Maroon Expect Campaign,2025-01-16 22:22:33,2025-03-12 03:19:44,Unsubscribed,172,37,4486.29,1714.3,Safari,Android,False,EST,North Tammybury,CA,41681,-94.3219,43.5844
+CAM-1047,Azure Significant Campaign,2025-01-11 21:30:01,2025-01-27 13:14:18,Clicked,81,2,4992.06,19737.24,Chrome,iOS,False,PST,Hillside,FR,42969,151.9266,-88.5911
+CAM-1048,GoldenRod Sometimes Campaign,2024-12-27 07:48:10,2025-01-29 07:27:20,Marked as Spam,65,29,8624.35,5573.05,Safari,Android,True,CST,North Amandamouth,CA,55059,80.6903,72.7545
+CAM-1049,Teal Base Campaign,2025-01-02 04:59:19,2025-03-08 06:09:13,Unsubscribed,76,0,4665.55,2151.94,Firefox,Windows,True,MST,Lake Tracyberg,DE,18883,120.9406,54.0845
+CAM-1050,FireBrick Often Campaign,2025-01-09 20:05:15,2025-01-27 11:44:44,Clicked,44,29,9405.32,16620.42,Chrome,Windows,False,MST,South Patrickburgh,UK,35242,116.7394,-80.9261
+CAM-1051,PaleGreen Threat Campaign,2025-01-10 17:39:31,2025-02-22 16:36:01,Opened,78,44,5089.64,14192.18,Firefox,MacOS,False,CST,West Rebecca,CA,77894,107.5953,-6.0721
+CAM-1052,Lime All Campaign,2025-01-22 23:58:44,2025-02-15 13:13:12,Opened,19,31,9497.09,12420.93,Edge,Windows,False,CST,Sampsonchester,CA,70807,146.5812,66.8007
+CAM-1053,SlateBlue Old Campaign,2025-01-21 14:25:20,2025-02-12 15:52:30,Clicked,191,27,8345.04,3288.42,Safari,Windows,False,MST,North Nicholas,DE,11705,90.0421,-11.0609
+CAM-1054,Tan Someone Campaign,2025-01-01 06:35:41,2025-02-05 00:09:56,Clicked,122,20,3688.07,9674.22,Safari,Android,False,CST,Phillipsbury,US,80625,-144.2353,19.2259
+CAM-1055,DarkCyan Actually Campaign,2025-01-13 02:49:09,2025-03-16 04:54:28,Unsubscribed,66,45,8650.05,15655.01,Firefox,Android,False,EST,Reneebury,US,96539,175.5544,86.8650
+CAM-1056,FireBrick Well Campaign,2024-12-25 10:21:37,2025-03-02 01:23:40,Opened,82,12,1189.63,6211.75,Edge,iOS,False,PST,Wilsonberg,FR,98273,131.9793,17.3453
+CAM-1057,Thistle Want Campaign,2025-01-15 01:04:52,2025-01-25 07:05:57,Clicked,2,26,9257.97,6371.46,Chrome,MacOS,False,MST,Murrayport,DE,33315,144.4308,-3.6123
+CAM-1058,Azure A Campaign,2025-01-06 03:27:00,2025-02-22 19:05:07,Opened,181,35,6353.27,262.19,Chrome,Android,True,CST,Lake Thomas,UK,39154,84.9612,30.5176
+CAM-1059,Silver Wrong Campaign,2025-01-09 15:01:48,2025-01-24 23:36:14,Clicked,63,6,638.47,3650.02,Safari,Windows,True,EST,Cranemouth,UK,61404,131.1407,35.4415
+CAM-1060,CornflowerBlue Speech Campaign,2025-01-16 09:06:04,2025-03-16 20:40:50,Opened,39,21,6478.14,17533.03,Firefox,iOS,True,MST,New Ryan,DE,21011,-48.0577,-82.9411
+CAM-1061,SaddleBrown Hard Campaign,2024-12-29 21:23:32,2025-03-19 03:31:12,Marked as Spam,58,9,9745.05,8946.58,Firefox,Android,False,CST,Webbland,UK,32608,158.8655,-38.3059
+CAM-1062,FireBrick Information Campaign,2024-12-30 13:26:54,2025-02-01 09:50:56,Unsubscribed,182,38,791.03,19687.84,Chrome,MacOS,False,MST,Foleyside,US,83140,150.5841,17.7789
+CAM-1063,DarkGreen Decide Campaign,2025-01-04 07:24:09,2025-03-10 12:28:25,Opened,61,14,5591.41,8035.02,Edge,MacOS,False,CST,Rossmouth,UK,89591,23.6277,81.4612
+CAM-1064,DarkSlateBlue Once Campaign,2025-01-15 14:19:39,2025-01-31 21:36:59,Marked as Spam,131,14,7503.16,14360.69,Edge,iOS,True,MST,East Marissa,UK,22566,145.5732,-14.5128
+CAM-1065,DarkGoldenRod Whole Campaign,2025-01-19 15:45:48,2025-02-12 12:37:56,Opened,59,3,8121.56,5782.0,Chrome,iOS,False,EST,West Johnview,DE,18323,-75.0812,32.1801
+CAM-1066,WhiteSmoke Final Campaign,2025-01-13 20:33:58,2025-03-05 13:42:36,Opened,115,31,4196.89,7403.43,Chrome,iOS,True,EST,North Shelleyberg,DE,54525,-140.7410,-80.5927
+CAM-1067,DodgerBlue Reach Campaign,2025-01-10 14:21:15,2025-01-30 20:12:03,Marked as Spam,74,22,2121.25,3976.37,Firefox,iOS,False,PST,Danielstad,UK,58636,-81.7734,41.9071
+CAM-1068,Green Section Campaign,2025-01-05 02:42:43,2025-02-22 09:31:28,Opened,121,5,519.19,7071.83,Edge,iOS,True,MST,Deborahberg,CA,62233,126.5663,72.4084
+CAM-1069,Pink Thus Campaign,2025-01-12 10:03:54,2025-03-13 23:28:01,Opened,106,23,5839.29,11035.3,Chrome,Windows,True,PST,Lake James,DE,92012,-2.3806,-36.3725
+CAM-1070,Maroon Notice Campaign,2025-01-11 16:52:42,2025-02-14 02:44:39,Unsubscribed,95,19,4583.82,19837.1,Chrome,Windows,True,MST,Adamsville,FR,99468,44.0025,-14.2593
+CAM-1071,SlateBlue Indicate Campaign,2024-12-29 16:54:46,2025-03-22 02:07:30,Marked as Spam,90,36,9492.57,13351.19,Safari,Android,False,CST,Lake Arielshire,FR,70575,-82.1680,-80.3843
+CAM-1072,DarkKhaki True Campaign,2024-12-30 20:31:05,2025-02-08 23:57:42,Marked as Spam,157,19,699.99,4145.07,Chrome,MacOS,True,CST,Glenbury,US,18779,111.0608,-78.5049
+CAM-1073,GoldenRod Open Campaign,2025-01-03 08:03:02,2025-02-27 22:36:24,Clicked,129,11,6885.41,1090.24,Chrome,Windows,False,PST,Dixonburgh,UK,78027,18.3267,27.4454
+CAM-1074,Linen Run Campaign,2025-01-06 15:46:33,2025-02-06 01:52:25,Opened,61,32,347.17,2701.86,Edge,Windows,False,MST,South Sean,CA,58535,35.3461,-55.7202
+CAM-1075,DarkCyan Again Campaign,2025-01-22 12:35:47,2025-03-24 04:30:03,Unsubscribed,48,27,1797.2,11338.59,Firefox,Windows,False,PST,Oliviaport,US,47722,-164.7538,34.9282
+CAM-1076,Linen Travel Campaign,2025-01-15 07:46:20,2025-03-03 12:11:31,Opened,136,7,4590.43,15350.17,Edge,Android,False,EST,North Garretthaven,UK,62316,53.0299,-47.5037
+CAM-1077,Olive Off Campaign,2025-01-08 13:52:50,2025-02-05 02:43:05,Opened,91,0,4603.24,18820.3,Firefox,iOS,False,PST,Lake Melissastad,DE,29961,-71.2014,-62.8275
+CAM-1078,Lime Collection Campaign,2024-12-28 16:19:45,2025-02-16 05:55:37,Clicked,158,36,6888.44,513.3,Safari,Android,True,PST,Port Jeremy,FR,55923,-175.9373,-71.2870
+CAM-1079,LightSkyBlue Central Campaign,2025-01-18 20:27:22,2025-01-26 12:16:32,Opened,123,21,9111.11,10550.65,Chrome,MacOS,False,CST,Barajashaven,CA,16886,22.8355,-72.1753
+CAM-1080,Aquamarine Report Campaign,2025-01-13 17:23:30,2025-02-20 04:30:07,Unsubscribed,60,5,6426.42,9523.17,Safari,MacOS,False,PST,East Haleychester,FR,18413,155.1205,10.1573
+CAM-1081,Lavender Hot Campaign,2025-01-06 07:13:10,2025-03-16 05:29:43,Unsubscribed,47,20,9540.0,13189.89,Firefox,MacOS,False,MST,North Annette,DE,73125,-161.6104,12.8477
+CAM-1082,DarkTurquoise Matter Campaign,2025-01-06 07:36:04,2025-02-11 23:42:17,Clicked,152,31,8827.99,11279.66,Edge,MacOS,False,CST,South Lacey,UK,53674,12.5628,39.1567
+CAM-1083,OliveDrab Size Campaign,2024-12-28 20:03:38,2025-01-31 00:04:29,Opened,163,34,5886.55,13803.38,Edge,Windows,False,PST,Lake Sarah,DE,04406,154.3249,43.7795
+CAM-1084,Lime Result Campaign,2025-01-21 12:30:43,2025-03-05 02:56:14,Unsubscribed,135,14,8354.54,13230.04,Safari,Windows,True,EST,West Ashleyton,DE,34954,-39.6784,-75.6799
+CAM-1085,MediumBlue More Campaign,2025-01-01 14:09:11,2025-02-10 23:25:01,Opened,57,4,6461.52,2516.83,Firefox,Android,True,PST,Lake Tracyhaven,FR,60514,171.3084,34.9110
+CAM-1086,FireBrick Perform Campaign,2024-12-27 01:24:39,2025-02-16 16:25:24,Opened,100,45,877.72,16034.41,Safari,iOS,False,PST,Garciafurt,CA,71771,-117.9169,-9.4330
+CAM-1087,Gray Experience Campaign,2025-01-13 15:55:10,2025-01-25 12:17:18,Opened,111,49,7431.59,2640.0,Safari,MacOS,True,PST,West Tracy,DE,67129,24.1656,24.4103
+CAM-1088,OldLace Receive Campaign,2025-01-08 16:27:45,2025-03-15 08:11:50,Clicked,172,47,1039.59,14030.91,Chrome,Android,True,CST,Lake Jonathanmouth,FR,14289,59.6630,-40.7652
+CAM-1089,Coral Support Campaign,2025-01-07 11:47:04,2025-03-10 19:39:24,Opened,61,5,5981.42,8439.68,Safari,Windows,False,MST,Harrisonland,CA,12817,-52.0169,18.3671
+CAM-1090,MediumOrchid Factor Campaign,2025-01-16 23:12:32,2025-02-14 03:17:41,Unsubscribed,38,24,7056.14,10374.24,Chrome,Windows,True,EST,South Matthew,UK,95036,-3.2955,29.9167
+CAM-1091,MintCream Own Campaign,2025-01-06 22:35:56,2025-03-20 05:30:13,Opened,57,45,758.62,18085.3,Chrome,iOS,False,PST,South Nicholas,UK,05754,125.9525,11.5432
+CAM-1092,Silver Wear Campaign,2025-01-21 07:28:21,2025-03-16 08:28:00,Unsubscribed,98,39,2384.87,17819.7,Edge,iOS,True,MST,Lake Michaelhaven,US,48496,93.6761,-6.9057
+CAM-1093,SlateBlue Work Campaign,2024-12-27 14:58:47,2025-03-09 20:40:25,Opened,191,28,9165.16,16393.55,Chrome,iOS,True,MST,North Erinmouth,FR,64854,15.3194,-48.7755
+CAM-1094,SandyBrown Special Campaign,2025-01-22 22:37:19,2025-02-17 07:31:09,Unsubscribed,43,6,6201.51,10300.94,Chrome,Android,True,CST,West Elizabethview,CA,69739,167.0635,15.7114
+CAM-1095,LightSeaGreen Weight Campaign,2025-01-11 17:35:26,2025-02-22 14:03:08,Unsubscribed,28,39,2538.23,14777.55,Edge,Windows,False,EST,Jamesborough,DE,72313,13.9529,-32.0044
+CAM-1096,LightYellow Business Campaign,2025-01-20 01:46:39,2025-01-24 11:34:20,Opened,58,12,6937.73,10355.36,Safari,Windows,True,CST,Letown,UK,90569,175.7885,43.4463
+CAM-1097,Red Law Campaign,2025-01-08 13:55:52,2025-02-25 03:11:38,Opened,70,37,6008.09,17418.2,Firefox,iOS,True,MST,New Rebeccamouth,CA,72096,82.0323,77.3138
+CAM-1098,Pink Spring Campaign,2025-01-13 11:41:00,2025-03-16 07:33:19,Unsubscribed,91,17,5065.6,8174.96,Firefox,MacOS,False,MST,East Kathleen,FR,62857,22.3808,79.3000
+CAM-1099,SteelBlue Lawyer Campaign,2025-01-05 03:49:50,2025-03-09 04:19:58,Marked as Spam,8,1,9764.25,19410.66,Firefox,iOS,False,MST,Joneshaven,US,57252,38.7646,50.2587

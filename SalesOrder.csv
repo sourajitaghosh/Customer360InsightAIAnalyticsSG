@@ -1,0 +1,101 @@
+Sales_Order_ID,Sales_Order_Date,Sales_Order_Status,Sales_Rep_Name,Linked_Quote_ID,Total_Sales_Value,Payment_Method,Shipment_Method,SKU,Product_Name,Category,Quantity,Net_Price_Amount,Net_Total_Amount,Marketing_Campaign_Source
+SO-1000,2024-05-22,Pending,Rebecca Rodriguez,Q-2000,6587.3,Wire Transfer,Overnight,SKU-0000,Eight,Electronics,11,64.39,3750.2,LinkedIn
+SO-1001,2024-04-01,Canceled,Julia Mendoza,Q-2001,9918.25,Wire Transfer,Overnight,SKU-0001,Culture,Electronics,13,406.04,3761.15,Email
+SO-1002,2025-01-14,Canceled,Daniel Johnson,Q-2002,819.44,PayPal,Ground,SKU-0002,What,Office,15,474.37,618.31,Email
+SO-1003,2024-12-20,Completed,Christopher Ramsey,Q-2003,863.07,PayPal,Ground,SKU-0003,National,Apparel,12,45.44,7698.92,Google
+SO-1004,2024-08-11,Canceled,Jasmine Donovan,Q-2004,3469.76,Credit Card,2-Day,SKU-0004,Morning,Fitness,11,478.01,4223.39,Google
+SO-1005,2024-04-18,Canceled,Charles King,Q-2005,8677.23,Credit Card,Overnight,SKU-0005,Feeling,Fitness,7,266.06,8239.58,Email
+SO-1006,2024-06-21,Pending,Tyler Smith,Q-2006,2233.75,PayPal,Overnight,SKU-0006,Where,Electronics,5,156.79,8518.45,LinkedIn
+SO-1007,2024-12-01,Canceled,Mr. Michael Frey,Q-2007,3667.74,Wire Transfer,Ground,SKU-0007,Police,Fitness,17,47.66,2198.74,Facebook
+SO-1008,2025-01-23,Pending,Mary Castro,Q-2008,778.2,Wire Transfer,Overnight,SKU-0008,But,Electronics,9,255.31,6607.8,LinkedIn
+SO-1009,2024-11-17,Completed,Wendy Cox,Q-2009,7655.24,Wire Transfer,2-Day,SKU-0009,Challenge,Office,14,399.31,4775.59,Facebook
+SO-1010,2024-08-17,Completed,James Young,Q-2010,4142.23,Credit Card,Overnight,SKU-0010,Left,Apparel,12,356.47,8813.55,LinkedIn
+SO-1011,2024-06-10,Canceled,Eric Miller,Q-2011,7616.56,Wire Transfer,Ground,SKU-0011,Front,Office,6,34.61,2235.83,Google
+SO-1012,2024-10-18,Completed,Ellen Smith,Q-2012,9045.72,Credit Card,Ground,SKU-0012,Fish,Home,17,45.72,6810.35,Email
+SO-1013,2025-01-14,Canceled,Christopher Jacobs,Q-2013,2404.36,Credit Card,2-Day,SKU-0013,Water,Home,19,207.41,6116.75,Email
+SO-1014,2025-01-07,Completed,Kendra Hill,Q-2014,8093.22,Wire Transfer,2-Day,SKU-0014,Level,Home,19,154.69,3023.48,Google
+SO-1015,2024-08-04,Pending,Anthony Gomez,Q-2015,685.03,Wire Transfer,Overnight,SKU-0015,Interesting,Office,16,123.87,1452.35,Facebook
+SO-1016,2024-04-02,Pending,Bruce Wright,Q-2016,8998.59,PayPal,Overnight,SKU-0016,Foreign,Fitness,12,147.69,6551.23,Facebook
+SO-1017,2024-06-15,Pending,Justin Olson,Q-2017,6542.61,PayPal,Ground,SKU-0017,In,Apparel,12,403.71,7412.11,Facebook
+SO-1018,2024-10-08,Pending,Kathy Henson,Q-2018,8754.84,Wire Transfer,2-Day,SKU-0018,Too,Home,6,465.32,3224.71,Google
+SO-1019,2024-06-23,Canceled,Brandon Gregory,Q-2019,101.87,Credit Card,2-Day,SKU-0019,Second,Home,4,208.5,6483.84,Facebook
+SO-1020,2025-03-16,Completed,Jimmy Garcia,Q-2020,1773.9,Credit Card,2-Day,SKU-0020,Cause,Home,6,453.99,4011.8,Google
+SO-1021,2025-02-15,Canceled,Sandra Perry,Q-2021,3958.62,Credit Card,Overnight,SKU-0021,Of,Apparel,11,167.53,7160.75,LinkedIn
+SO-1022,2025-01-27,Pending,Daniel Chambers,Q-2022,3857.08,Credit Card,2-Day,SKU-0022,Sound,Home,1,243.45,2072.23,LinkedIn
+SO-1023,2025-03-09,Canceled,Robert Vega,Q-2023,2344.63,Credit Card,Ground,SKU-0023,Speech,Apparel,15,120.75,8913.13,Google
+SO-1024,2024-09-07,Completed,Michael Powell,Q-2024,3877.96,PayPal,Ground,SKU-0024,Social,Home,11,323.83,2945.36,Email
+SO-1025,2025-01-02,Canceled,Angela Miles,Q-2025,1375.6,Wire Transfer,Overnight,SKU-0025,Skill,Office,19,489.7,3741.08,LinkedIn
+SO-1026,2024-07-26,Completed,Christina Shelton,Q-2026,4186.34,PayPal,Overnight,SKU-0026,Fund,Office,18,305.71,675.11,Facebook
+SO-1027,2024-07-25,Canceled,Molly Lewis,Q-2027,8043.31,Credit Card,2-Day,SKU-0027,Sea,Apparel,17,185.33,1203.97,Google
+SO-1028,2024-08-01,Completed,Hailey Glover,Q-2028,4842.79,Credit Card,Overnight,SKU-0028,A,Office,19,327.43,5207.03,Facebook
+SO-1029,2024-04-30,Completed,Nathaniel Ashley,Q-2029,278.2,Credit Card,Ground,SKU-0029,Somebody,Apparel,14,70.23,2749.17,Facebook
+SO-1030,2024-09-08,Pending,Ryan Juarez,Q-2030,4272.3,Credit Card,2-Day,SKU-0030,Provide,Office,18,445.44,8371.25,Email
+SO-1031,2025-01-17,Completed,David Hughes,Q-2031,369.03,Wire Transfer,Ground,SKU-0031,Factor,Office,19,256.51,245.46,Facebook
+SO-1032,2024-04-03,Pending,Tara Romero,Q-2032,9665.81,Credit Card,2-Day,SKU-0032,Meeting,Apparel,15,230.18,3853.03,Email
+SO-1033,2025-01-10,Pending,Mary Leonard DDS,Q-2033,1361.79,Wire Transfer,Overnight,SKU-0033,Paper,Fitness,15,297.07,3439.72,LinkedIn
+SO-1034,2025-01-24,Pending,Anthony Olson,Q-2034,7106.11,Credit Card,2-Day,SKU-0034,Night,Office,4,316.14,291.34,Google
+SO-1035,2024-12-11,Canceled,Lisa Jones,Q-2035,9730.49,Wire Transfer,2-Day,SKU-0035,Use,Home,7,45.17,1331.25,Facebook
+SO-1036,2024-05-20,Canceled,Pamela Sims,Q-2036,8277.79,PayPal,Ground,SKU-0036,Time,Fitness,13,344.48,4195.06,Google
+SO-1037,2024-12-29,Canceled,Crystal Spence DVM,Q-2037,7023.22,Credit Card,Ground,SKU-0037,Since,Apparel,3,128.55,4979.36,Facebook
+SO-1038,2024-08-15,Canceled,Patrick Ferguson,Q-2038,8410.66,Wire Transfer,2-Day,SKU-0038,Lay,Fitness,16,359.84,4102.47,Google
+SO-1039,2024-09-19,Completed,Sandra Walker MD,Q-2039,9819.81,PayPal,Overnight,SKU-0039,If,Electronics,9,413.04,5356.28,Facebook
+SO-1040,2024-10-15,Completed,Tanner Velez,Q-2040,6251.31,Credit Card,Overnight,SKU-0040,Gas,Electronics,8,403.94,5991.8,Facebook
+SO-1041,2025-01-27,Canceled,Robert Owens,Q-2041,5635.93,Credit Card,Ground,SKU-0041,Lot,Office,13,280.73,198.25,Facebook
+SO-1042,2024-09-24,Completed,Jennifer Robertson,Q-2042,6319.56,Credit Card,Overnight,SKU-0042,On,Office,17,264.88,4694.54,Facebook
+SO-1043,2024-06-19,Completed,Dale Wang,Q-2043,5373.49,Wire Transfer,Ground,SKU-0043,Animal,Home,17,80.01,9638.64,Facebook
+SO-1044,2024-09-08,Pending,Stephen Green,Q-2044,6387.38,Wire Transfer,Overnight,SKU-0044,Professor,Fitness,17,389.92,5238.42,Facebook
+SO-1045,2024-08-02,Pending,Rachel Greene,Q-2045,4553.44,PayPal,2-Day,SKU-0045,Relate,Electronics,1,142.99,6807.67,Facebook
+SO-1046,2024-09-07,Pending,Ashley Hoover,Q-2046,2262.59,Wire Transfer,Ground,SKU-0046,Go,Office,8,253.38,3187.45,Facebook
+SO-1047,2024-08-25,Pending,Dominic Dunn,Q-2047,1290.45,Wire Transfer,Ground,SKU-0047,Idea,Fitness,19,149.29,7762.51,Facebook
+SO-1048,2025-01-31,Completed,Brandy Green,Q-2048,776.58,Credit Card,2-Day,SKU-0048,Draw,Office,6,75.58,7751.92,Google
+SO-1049,2024-11-23,Canceled,Peter Smith,Q-2049,2706.83,Credit Card,Ground,SKU-0049,The,Office,3,318.48,5260.83,Email
+SO-1050,2024-06-06,Completed,David Yates,Q-2050,556.62,Credit Card,Overnight,SKU-0050,Garden,Electronics,5,36.62,9762.54,Facebook
+SO-1051,2024-06-29,Completed,James Baker,Q-2051,5714.99,Credit Card,Overnight,SKU-0051,Institution,Electronics,13,376.84,1342.95,Email
+SO-1052,2024-05-01,Completed,Dennis Gallagher,Q-2052,2909.9,Credit Card,Ground,SKU-0052,Method,Office,15,165.62,267.78,Facebook
+SO-1053,2024-06-07,Pending,Dylan Serrano,Q-2053,8262.89,Credit Card,Overnight,SKU-0053,Skill,Apparel,14,10.07,7724.57,Facebook
+SO-1054,2024-08-06,Pending,Rachel Le,Q-2054,834.98,Credit Card,Ground,SKU-0054,Church,Office,16,260.45,8090.84,Google
+SO-1055,2024-06-06,Pending,Candace Lawson,Q-2055,2340.88,PayPal,2-Day,SKU-0055,West,Office,18,32.96,1290.05,LinkedIn
+SO-1056,2025-03-20,Canceled,Billy Blair,Q-2056,7329.44,PayPal,Ground,SKU-0056,System,Home,11,145.32,2729.27,LinkedIn
+SO-1057,2024-10-18,Completed,Austin Nguyen,Q-2057,6028.2,PayPal,2-Day,SKU-0057,Religious,Home,3,356.42,273.77,Google
+SO-1058,2025-01-29,Canceled,Francisco Sullivan,Q-2058,738.46,PayPal,Overnight,SKU-0058,But,Home,10,40.72,3003.76,Email
+SO-1059,2024-06-08,Pending,Lindsay Vazquez,Q-2059,8784.67,Credit Card,2-Day,SKU-0059,Up,Apparel,10,421.28,7754.1,LinkedIn
+SO-1060,2024-10-05,Canceled,Tyler Perkins,Q-2060,8784.89,PayPal,Overnight,SKU-0060,Either,Apparel,16,11.87,5227.81,Google
+SO-1061,2024-10-20,Completed,Amber Chapman,Q-2061,3371.04,Credit Card,Ground,SKU-0061,Rate,Office,12,130.94,3546.15,Google
+SO-1062,2024-12-07,Completed,Courtney Pham,Q-2062,3470.02,PayPal,Overnight,SKU-0062,Fly,Home,2,373.04,3780.22,LinkedIn
+SO-1063,2025-01-01,Pending,Sara Daniels,Q-2063,9891.38,Wire Transfer,Ground,SKU-0063,Management,Apparel,9,164.97,113.4,Email
+SO-1064,2025-03-10,Pending,Michael George,Q-2064,6299.14,PayPal,Ground,SKU-0064,Leave,Electronics,3,59.93,3068.03,Google
+SO-1065,2024-10-21,Canceled,Jane Henderson,Q-2065,5360.03,PayPal,2-Day,SKU-0065,Executive,Office,15,186.51,6499.94,Facebook
+SO-1066,2024-10-09,Pending,Belinda Bradford,Q-2066,8397.71,Credit Card,2-Day,SKU-0066,Stuff,Fitness,3,142.49,9744.52,Email
+SO-1067,2024-07-16,Pending,Roberta Gilbert,Q-2067,2924.37,PayPal,2-Day,SKU-0067,Wish,Office,19,422.93,8485.9,Email
+SO-1068,2025-01-30,Completed,Scott Paul,Q-2068,4348.91,Wire Transfer,2-Day,SKU-0068,Building,Fitness,18,163.54,333.59,LinkedIn
+SO-1069,2024-09-03,Pending,Jonathan Kelly,Q-2069,2750.99,Credit Card,Overnight,SKU-0069,Should,Home,8,396.58,8995.75,LinkedIn
+SO-1070,2025-01-13,Pending,Kelly Williams,Q-2070,7912.69,Credit Card,Overnight,SKU-0070,Vote,Fitness,17,447.02,7853.66,Facebook
+SO-1071,2024-05-04,Completed,Amanda Hughes,Q-2071,5776.16,PayPal,Overnight,SKU-0071,Rule,Home,8,222.57,7825.72,Google
+SO-1072,2024-07-06,Completed,Michael Chavez,Q-2072,6622.37,Credit Card,Ground,SKU-0072,Before,Electronics,7,455.87,4634.16,LinkedIn
+SO-1073,2024-07-21,Canceled,Dr. Heather Foster,Q-2073,2597.84,Credit Card,Overnight,SKU-0073,Affect,Fitness,7,194.89,4040.25,LinkedIn
+SO-1074,2025-02-27,Pending,Alex Carter,Q-2074,2280.23,Credit Card,Overnight,SKU-0074,Always,Office,3,482.4,3098.87,Email
+SO-1075,2025-03-08,Completed,Keith Hodge,Q-2075,4934.91,Credit Card,Overnight,SKU-0075,Against,Home,1,53.75,750.38,LinkedIn
+SO-1076,2025-01-30,Canceled,Robert Mcconnell,Q-2076,7401.9,Credit Card,2-Day,SKU-0076,Hotel,Office,4,346.64,2359.53,LinkedIn
+SO-1077,2024-11-28,Canceled,Margaret Duran,Q-2077,5299.87,Credit Card,Overnight,SKU-0077,Itself,Apparel,5,251.97,2541.38,LinkedIn
+SO-1078,2024-07-14,Pending,Samantha Young,Q-2078,423.19,Wire Transfer,Ground,SKU-0078,Allow,Home,1,199.95,4892.36,LinkedIn
+SO-1079,2024-11-22,Pending,Cynthia Brown,Q-2079,8698.66,PayPal,2-Day,SKU-0079,Say,Fitness,15,320.03,7499.7,Email
+SO-1080,2024-08-03,Canceled,Gerald Evans II,Q-2080,740.4,Wire Transfer,Ground,SKU-0080,Just,Home,5,354.89,4790.72,Facebook
+SO-1081,2024-04-11,Completed,Spencer Burton,Q-2081,9562.66,Credit Card,Overnight,SKU-0081,Information,Office,13,12.14,672.66,Facebook
+SO-1082,2024-06-02,Canceled,Susan Saunders,Q-2082,348.91,Credit Card,2-Day,SKU-0082,Because,Electronics,8,91.81,9582.12,Google
+SO-1083,2024-12-04,Pending,Brandi Mccoy,Q-2083,6975.06,PayPal,Ground,SKU-0083,Me,Home,8,359.39,9432.97,LinkedIn
+SO-1084,2024-08-22,Completed,Thomas King,Q-2084,913.85,Wire Transfer,Overnight,SKU-0084,Current,Fitness,5,336.53,7873.38,Email
+SO-1085,2024-04-18,Completed,James Taylor,Q-2085,9115.7,PayPal,Ground,SKU-0085,Establish,Apparel,9,483.36,9914.15,Google
+SO-1086,2024-04-25,Canceled,William Smith,Q-2086,4697.89,Wire Transfer,Ground,SKU-0086,Card,Electronics,1,382.91,5490.38,Google
+SO-1087,2024-12-11,Pending,John Adams,Q-2087,1461.49,Credit Card,Ground,SKU-0087,Weight,Apparel,4,475.88,9631.41,Facebook
+SO-1088,2024-12-31,Canceled,Luis Ramirez,Q-2088,3474.08,PayPal,Overnight,SKU-0088,Form,Home,3,354.24,848.49,Email
+SO-1089,2024-08-09,Canceled,Kelsey Hunter,Q-2089,1731.76,PayPal,Overnight,SKU-0089,Food,Office,2,156.05,3720.24,Email
+SO-1090,2024-11-18,Canceled,Tina Ross,Q-2090,1788.76,Credit Card,Ground,SKU-0090,Model,Office,8,61.63,2331.27,Email
+SO-1091,2025-02-19,Completed,Matthew Clarke,Q-2091,9486.27,PayPal,2-Day,SKU-0091,Current,Fitness,9,393.09,2038.75,Facebook
+SO-1092,2024-10-27,Completed,Zachary Lang,Q-2092,4507.94,Wire Transfer,2-Day,SKU-0092,Pattern,Office,2,325.63,1493.95,Facebook
+SO-1093,2024-12-30,Pending,Christina Castillo,Q-2093,7909.14,Wire Transfer,Overnight,SKU-0093,Them,Electronics,14,33.61,6261.9,Facebook
+SO-1094,2024-08-23,Pending,Anthony Medina,Q-2094,6432.1,Wire Transfer,Overnight,SKU-0094,Message,Office,14,186.42,7835.09,Facebook
+SO-1095,2025-01-30,Canceled,Denise Mora,Q-2095,6796.62,Wire Transfer,Overnight,SKU-0095,Buy,Fitness,4,478.83,5825.15,Facebook
+SO-1096,2025-02-25,Canceled,Amanda Ochoa,Q-2096,1403.77,Credit Card,Overnight,SKU-0096,Marriage,Home,6,255.2,1554.93,LinkedIn
+SO-1097,2024-10-20,Canceled,Michelle Phillips,Q-2097,2418.43,PayPal,Overnight,SKU-0097,Feel,Home,11,222.04,8130.13,LinkedIn
+SO-1098,2025-03-23,Pending,Michelle Lucas,Q-2098,7888.83,Wire Transfer,2-Day,SKU-0098,Near,Office,3,234.27,6395.95,Email
+SO-1099,2024-05-11,Completed,Olivia Jones,Q-2099,9710.59,Credit Card,Overnight,SKU-0099,Individual,Apparel,8,112.35,3942.84,Google
