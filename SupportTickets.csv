@@ -1,0 +1,101 @@
+Case_ID,Inquiry_Type,Case_Subject,Support_Channel,Status,Priority,Assigned_Agent,First_Response_Time,Resolution_Time,Customer_Feedback,Escalation_Reason,Last_Updated,AI_Sentiment_Score
+CASE-1000,Complaint,Reduce individual health think create take.,Web,In Progress,High,Kim Morales,13.81,46.97,3,Unresolved,2025-03-23,73
+CASE-1001,Returns,Sound practice hear.,Chat,Open,Critical,Nancy Sawyer,22.53,3.86,5,Manager Request,2025-01-24,16
+CASE-1002,Product Info,Word save reality interview ready certain.,Phone,Resolved,Medium,Jasmine Michael,17.01,43.0,5,Urgent Issue,2025-03-11,83
+CASE-1003,Returns,True election represent central lay.,Web,Open,Low,Joshua Thomas,14.11,67.82,2,Unresolved,2025-02-11,87
+CASE-1004,Returns,Past carry business near return great.,Web,Open,High,Amy Hendrix,3.24,42.28,4,,2025-01-25,68
+CASE-1005,Technical,Close school create.,Email,In Progress,Low,Amanda Williams,15.15,29.17,2,,2025-03-16,33
+CASE-1006,Product Info,Then report live price common management.,Phone,Resolved,Low,Ryan Hebert,23.77,47.03,4,Manager Request,2025-02-11,5
+CASE-1007,Product Info,One stop your benefit quite evidence.,Web,In Progress,Medium,Gregory Chavez,4.22,34.08,4,,2025-03-13,52
+CASE-1008,Product Info,Heart continue type.,Chat,In Progress,Critical,Ashley Perez,12.92,40.19,5,Urgent Issue,2025-01-23,65
+CASE-1009,Returns,Create buy most around purpose activity.,Chat,Resolved,Medium,Arthur Price,21.18,67.9,1,Manager Request,2025-03-07,76
+CASE-1010,Complaint,Remember important investment.,Email,Open,Medium,Kathleen Martinez,18.04,29.03,1,,2025-03-15,42
+CASE-1011,Product Info,Page door spring certain.,Web,Open,Medium,Jennifer Frazier MD,17.03,69.28,3,Manager Request,2025-02-04,74
+CASE-1012,Returns,Actually set heart data computer each.,Phone,Resolved,Medium,Gregory Alexander,17.16,65.37,5,,2025-02-20,22
+CASE-1013,Technical,City month capital.,Chat,Open,High,Maria Bradley,9.27,15.71,4,,2025-02-10,54
+CASE-1014,Complaint,Father action Republican chance.,Web,Resolved,Critical,Daniel Walker,7.75,6.86,1,,2025-03-11,79
+CASE-1015,Technical,Car doctor own find.,Web,Resolved,Low,Karen Thomas,19.62,9.05,4,Urgent Issue,2025-02-10,94
+CASE-1016,Complaint,Fine somebody challenge brother admit.,Email,In Progress,Low,Natalie Kirk,19.63,3.28,1,Urgent Issue,2025-03-06,74
+CASE-1017,Returns,Garden environmental end series court front.,Chat,Resolved,Critical,Alejandro Jones,20.94,8.61,1,Manager Request,2025-01-27,15
+CASE-1018,Billing,Box system rise member.,Chat,In Progress,Low,Joseph Beard,22.0,49.81,1,,2025-03-15,7
+CASE-1019,Complaint,Shoulder safe along.,Phone,Open,Critical,Steven Russo,12.76,6.98,5,,2025-02-15,3
+CASE-1020,Technical,Summer trip assume main cell.,Chat,Open,Low,Jonathan Roberts,12.53,24.33,2,Urgent Issue,2025-03-01,3
+CASE-1021,Returns,Majority rate wear base fire over.,Phone,Open,Medium,Kim White,19.36,61.14,4,,2025-01-25,55
+CASE-1022,Complaint,Election well police.,Chat,Open,Low,Nicholas Brown,15.95,3.63,5,Urgent Issue,2025-01-26,24
+CASE-1023,Billing,You blue measure continue least.,Email,In Progress,Critical,Richard Hall,17.15,59.01,5,,2025-02-23,66
+CASE-1024,Billing,Away suddenly street image clearly federal even.,Chat,Open,Critical,Travis Duncan,19.3,21.73,5,Manager Request,2025-03-09,95
+CASE-1025,Product Info,Environment operation according.,Phone,Resolved,Critical,Dr. Charlene Padilla,21.47,10.27,5,,2025-03-22,66
+CASE-1026,Product Info,Last than own.,Phone,Resolved,Critical,Jordan Rivers DVM,8.77,50.77,5,,2025-02-02,26
+CASE-1027,Technical,Really surface bar.,Email,Resolved,Critical,Lance Gates,9.64,46.03,3,Unresolved,2025-01-26,92
+CASE-1028,Complaint,Sign social practice during.,Chat,In Progress,High,Carmen Gutierrez,3.16,63.42,4,Urgent Issue,2025-03-23,31
+CASE-1029,Complaint,Worry once reduce size picture include.,Chat,Open,High,Richard Hurley,14.3,53.45,5,,2025-02-10,49
+CASE-1030,Product Info,Day radio sure.,Email,Open,Low,Glenn Robertson,1.83,58.24,4,,2025-02-03,60
+CASE-1031,Complaint,Television piece street both.,Chat,Open,Critical,Elizabeth Haynes,11.71,21.74,3,Unresolved,2025-03-17,50
+CASE-1032,Complaint,On machine address claim either see.,Chat,In Progress,Low,Sylvia Hunter,13.48,14.42,3,Unresolved,2025-03-15,18
+CASE-1033,Billing,Team toward girl base good it.,Phone,Resolved,Critical,Christy Torres,7.59,54.54,4,Urgent Issue,2025-03-01,20
+CASE-1034,Product Info,Recently parent worker less here.,Chat,Resolved,Critical,Stephanie Young,14.59,58.48,1,Unresolved,2025-02-28,4
+CASE-1035,Returns,Project water strong.,Chat,Open,High,George Cohen,1.7,71.34,2,Manager Request,2025-02-17,81
+CASE-1036,Product Info,Cup group significant if worker soldier.,Email,Resolved,High,Kristi Morales,1.86,30.88,1,Unresolved,2025-01-26,91
+CASE-1037,Returns,Animal while medical.,Email,Resolved,Medium,Mark Blankenship Jr.,19.92,28.04,1,Manager Request,2025-03-14,41
+CASE-1038,Billing,Hundred discuss whether.,Web,In Progress,High,Julie Drake,9.28,56.35,1,Urgent Issue,2025-03-22,60
+CASE-1039,Technical,Discuss probably but husband during get.,Phone,In Progress,Medium,Terry Soto,3.92,25.86,5,Urgent Issue,2025-03-01,21
+CASE-1040,Complaint,Able per low religious writer.,Chat,In Progress,Medium,Joseph Rodriguez,13.01,67.15,3,Urgent Issue,2025-03-06,20
+CASE-1041,Billing,Trip stage wide company religious.,Chat,In Progress,Medium,Derek Stewart,18.71,62.09,1,Urgent Issue,2025-03-01,69
+CASE-1042,Complaint,Card bar act discuss face.,Web,Open,Medium,Phyllis Mccarthy,5.96,32.03,3,Urgent Issue,2025-03-05,0
+CASE-1043,Technical,Anything try half nor others.,Chat,In Progress,Medium,Leslie Jackson,15.33,54.56,4,Manager Request,2025-03-15,4
+CASE-1044,Technical,Actually I sense.,Phone,Resolved,Low,Julia Garcia,2.96,54.82,2,Manager Request,2025-03-22,11
+CASE-1045,Billing,Best head western economy site.,Web,Open,High,Maria Taylor,2.19,9.22,4,Urgent Issue,2025-02-08,89
+CASE-1046,Technical,Leader need hold over even.,Phone,Resolved,Medium,Jenny Gardner,13.22,65.18,4,Unresolved,2025-03-11,45
+CASE-1047,Returns,Now far opportunity any growth.,Web,Resolved,Critical,David Scott,13.43,37.37,5,,2025-03-12,33
+CASE-1048,Technical,Summer his I nothing.,Web,Resolved,High,Michael Gillespie,15.66,59.85,2,Urgent Issue,2025-03-07,48
+CASE-1049,Complaint,Everybody adult theory Mrs.,Email,In Progress,High,Gerald Trevino,17.7,24.4,4,Unresolved,2025-01-25,77
+CASE-1050,Complaint,Decade anything right firm.,Phone,In Progress,Medium,Kristen Wolfe,23.44,64.69,4,,2025-02-23,89
+CASE-1051,Complaint,Rock cover old matter hope.,Chat,Open,Low,Heather Cruz,12.87,29.24,2,Urgent Issue,2025-03-11,44
+CASE-1052,Complaint,Red we conference response improve anyone.,Chat,Open,Medium,Nicole Armstrong,8.43,2.76,2,Urgent Issue,2025-01-29,26
+CASE-1053,Returns,Quickly reality state.,Phone,In Progress,Low,Alexis Alvarado,19.29,65.38,4,Manager Request,2025-01-29,72
+CASE-1054,Product Info,Structure fire create prove place laugh.,Chat,Resolved,Critical,Keith Ryan,7.23,8.39,2,,2025-02-26,25
+CASE-1055,Billing,Bill reflect stage second.,Chat,Open,High,William Hill,11.1,24.35,4,,2025-03-15,46
+CASE-1056,Complaint,Health skill although.,Phone,In Progress,Critical,Garrett Kennedy,2.8,68.5,4,Unresolved,2025-02-24,85
+CASE-1057,Technical,Hair realize study throughout maybe always.,Web,In Progress,Low,Tara Harrison,1.58,68.54,5,Manager Request,2025-02-04,55
+CASE-1058,Complaint,Talk certainly ready center.,Phone,In Progress,Low,Pamela Nelson,23.14,42.14,1,Manager Request,2025-02-27,93
+CASE-1059,Technical,Garden there sense nature difficult.,Web,Resolved,Critical,Tammie Adams,20.23,46.23,4,Manager Request,2025-02-10,62
+CASE-1060,Technical,Reflect finally argue.,Chat,In Progress,Low,Angela Weber,17.01,33.39,3,Manager Request,2025-02-08,47
+CASE-1061,Complaint,Effort magazine cultural part.,Chat,In Progress,Critical,Jasmine Smith,10.41,22.52,1,,2025-01-27,60
+CASE-1062,Returns,Why should public brother.,Chat,In Progress,High,Kristen Daniels,4.99,25.01,1,,2025-03-03,80
+CASE-1063,Technical,Bar page major hard star fly.,Email,In Progress,Critical,David Daniel,4.6,49.08,1,Urgent Issue,2025-02-10,25
+CASE-1064,Technical,Crime campaign out experience.,Web,Open,High,Cynthia Stuart,6.76,54.67,5,Urgent Issue,2025-02-22,35
+CASE-1065,Complaint,Fact hospital recent how read.,Email,Open,Critical,John Johnson,13.63,57.41,4,Manager Request,2025-02-03,0
+CASE-1066,Technical,System case listen turn card.,Email,In Progress,Low,Brianna Smith,17.44,57.27,5,Manager Request,2025-02-19,7
+CASE-1067,Technical,Senior agree beautiful life dark.,Phone,Resolved,Critical,Margaret Nichols,16.18,8.38,4,Manager Request,2025-03-14,98
+CASE-1068,Complaint,Meet sometimes research economic.,Email,Open,Low,Louis Clark,7.44,36.61,5,Urgent Issue,2025-02-18,51
+CASE-1069,Complaint,Action pull security arrive easy increase.,Phone,In Progress,Critical,Katherine Bennett,22.96,6.03,5,Unresolved,2025-02-16,78
+CASE-1070,Billing,Brother attorney professor doctor film.,Phone,Open,Critical,Kim Moss,17.97,40.47,3,Unresolved,2025-03-12,46
+CASE-1071,Returns,Heart stop imagine.,Email,Open,Medium,Leslie Campbell,13.75,32.91,5,Urgent Issue,2025-03-05,55
+CASE-1072,Returns,Major authority camera hold marriage.,Web,Resolved,Low,Brandon Hall,15.07,64.14,2,Urgent Issue,2025-02-22,85
+CASE-1073,Technical,Must us community.,Web,In Progress,Medium,Chelsea Wright,10.65,26.56,3,Urgent Issue,2025-01-26,13
+CASE-1074,Returns,Foot street themselves.,Web,In Progress,Low,Ann Bradford,6.7,10.19,5,Urgent Issue,2025-01-30,89
+CASE-1075,Technical,School officer then college value.,Web,Resolved,Medium,Dana Moore,9.19,12.01,1,Urgent Issue,2025-01-26,27
+CASE-1076,Billing,Along wife card spend newspaper occur.,Web,Resolved,High,Eric Stout,18.43,55.31,2,Urgent Issue,2025-03-07,86
+CASE-1077,Complaint,Both affect entire.,Email,In Progress,Critical,Crystal Decker,1.33,45.28,2,Manager Request,2025-03-05,77
+CASE-1078,Complaint,Book material fact bed box.,Email,In Progress,Low,Monica Cook,3.67,9.08,2,Manager Request,2025-02-20,87
+CASE-1079,Complaint,Beat need hot herself world.,Chat,Resolved,Low,Matthew Murray,2.06,7.89,3,Manager Request,2025-03-15,1
+CASE-1080,Returns,Dark carry fast heavy baby continue.,Web,Open,Critical,Craig Webb,1.94,51.07,5,Manager Request,2025-02-05,25
+CASE-1081,Billing,Adult national by.,Email,Open,Low,Stacy Hoffman,20.68,7.09,5,Urgent Issue,2025-03-15,13
+CASE-1082,Returns,Machine send seven development degree good.,Chat,Resolved,Low,Monica Maddox,17.18,59.53,1,Unresolved,2025-03-02,58
+CASE-1083,Returns,Character number clear there quickly herself.,Web,Open,Medium,Sheri Robinson,11.91,51.44,1,,2025-02-27,55
+CASE-1084,Billing,Study red practice floor reality.,Phone,Resolved,Low,Lori Hood,3.25,7.69,2,Urgent Issue,2025-02-25,6
+CASE-1085,Billing,Million accept several speech.,Chat,Open,High,Tom Williamson,12.31,7.94,1,,2025-02-10,2
+CASE-1086,Billing,Organization store about up.,Email,Open,High,William Johnson,11.89,71.06,3,Unresolved,2025-02-16,22
+CASE-1087,Billing,Bank pass owner cost discuss.,Phone,In Progress,Critical,Derrick Adams,4.98,28.2,5,Manager Request,2025-02-08,17
+CASE-1088,Complaint,Democratic eat event perhaps.,Phone,In Progress,Low,Evelyn Harvey,10.98,27.94,2,Unresolved,2025-02-19,37
+CASE-1089,Product Info,Skin food doctor large thing.,Phone,Open,Critical,Paul Cooper,10.17,58.9,1,Urgent Issue,2025-03-18,98
+CASE-1090,Product Info,Section together key once easy accept.,Chat,Open,High,Charles Burke,15.16,68.31,3,Manager Request,2025-01-25,14
+CASE-1091,Billing,Treatment raise wonder concern some.,Email,In Progress,Low,Stacy Ramirez,15.61,71.02,3,Urgent Issue,2025-03-13,63
+CASE-1092,Product Info,Me study our why late main eat.,Phone,In Progress,Low,April Smith,2.04,54.74,1,Manager Request,2025-03-14,88
+CASE-1093,Product Info,Probably hand red.,Web,In Progress,Critical,Matthew Lopez,9.62,28.34,5,,2025-02-08,100
+CASE-1094,Billing,Meet court guy edge type again.,Phone,Resolved,High,Jonathan Smith,15.39,7.85,1,,2025-03-22,27
+CASE-1095,Product Info,Memory above room.,Phone,Open,Low,John Reynolds,12.57,56.4,2,,2025-02-06,73
+CASE-1096,Returns,Movie best local.,Chat,In Progress,Critical,Laura Martinez,20.7,41.09,1,Unresolved,2025-01-24,38
+CASE-1097,Technical,From hair truth sport example act.,Chat,Open,High,Jessica Bray,16.15,31.7,3,Urgent Issue,2025-01-25,56
+CASE-1098,Technical,Stay player letter determine then.,Email,Resolved,Critical,Troy Lane,4.75,65.44,1,Unresolved,2025-03-20,16
+CASE-1099,Billing,Commercial stay clearly exist style.,Web,Resolved,Medium,Denise Humphrey,2.62,9.78,5,,2025-01-23,85
